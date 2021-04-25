@@ -1,6 +1,54 @@
+.logo {
+  position: absolute;
+  left: 90px;
+  top: 30px;
+  width: 246px;
+  transform-origin: 123.2px 74.5px 0px;
+}
+
+.jiko01 {
+  position: absolute;
+    width: 850px;
+    height: 847px;
+    left: 577px;
+    top: 3px;
+}
+
+.jiko02 {
+  position: absolute;
+    width: 850px;
+    height: 847px;
+    left: 577px;
+    top: 900px;
+}
+
+.menu-contents {
+  position: absolute;
+    font-family: "Times New Roman";
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    background-image: none;
+    background-color: rgb(255, 141, 141);
+    left: 97px;
+    top: 90px;
+}
+
 body {
   font-family: monospace;
 }
+
+#w-design {
+  position: absolute;
+    left: 97px;
+    top: 800px;
+}
+
+#design-art {
+  position: absolute;
+    left: 97px;
+    top: 500px;
+}
+
 
 .part-point-li {
   list-style: none;
