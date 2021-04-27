@@ -30,6 +30,14 @@ body {
     top: 900px;
 }
 
+.jiko03 {
+  position: absolute;
+    width: 850px;
+    height: 847px;
+    left: 577px;
+    top: 1800px;
+}
+
 .menu-contents {
   position: absolute;
     font-family: "Times New Roman";
@@ -43,8 +51,9 @@ body {
 }
 
 main {
-  margin: auto;
-  padding: 500px 0px 50px 100px;
+  width: 400px;
+  margin: 500px 50px 50px 100px;
+  /* padding: 500px 0px 50px 100px; */
 }
 
 
