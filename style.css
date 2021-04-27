@@ -1,3 +1,11 @@
+body {
+  font-family: monospace;
+}
+
+.menu-contents li{
+  list-style: none;
+}
+
 .logo {
   position: absolute;
   left: 90px;
@@ -29,14 +37,31 @@
     color: rgb(255, 255, 255);
     background-image: none;
     background-color: rgb(255, 141, 141);
+    padding: 0px 20px 20px 20px;
     left: 97px;
     top: 90px;
 }
 
-body {
-  font-family: monospace;
+main {
+  margin: auto;
+  padding: 500px 0px 50px 100px;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
 #w-design {
   position: absolute;
     left: 97px;
@@ -52,4 +77,4 @@ body {
 
 .part-point-li {
   list-style: none;
-}
+} */
